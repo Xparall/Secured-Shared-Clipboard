@@ -1,5 +1,10 @@
 # Secure Shared Clipboard with P2P and Web UI
 
+![MIT License](https://img.shields.io/badge/license-MIT-green.svg)  
+![Platform](https://img.shields.io/badge/platform-cross--platform-blue.svg)  
+![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)  
+![Security](https://img.shields.io/badge/encryption-AES--256-yellow.svg)
+
 ## Overview
 This project implements a **peer-to-peer (P2P) secured shared clipboard** where one device acts as a host, and other devices can join using a **Room ID & Password**. Clipboard data is synchronized in real-time across connected devices without a centralized server.
 
